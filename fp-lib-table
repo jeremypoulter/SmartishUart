@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name "SmartishUart")(type "KiCad")(uri "${KIPRJMOD}/SmartishUart.pretty")(options "")(descr ""))
+)
